@@ -1,0 +1,5 @@
+{
+  "name": "BarberBook",
+  "description": "Aplicativo de agendamento para barbeiros autônomos, focado em facilidade de uso e design mobile-first.",
+  "requestFramePermissions": []
+}
